@@ -12,4 +12,24 @@ Take on the role of a picaroon, and rely on your wits to make your way in an unc
 
 Use this text however you please, so long as you're not a bigot, fascist, or other piece of dogshit.
 
+{{< columns >}}
+
+Column 1
+
+<--->
+
+Column 2
+
+{{< /columns >}}
+
+{{< flexcolumns >}}
+
+Flexcolumn 1
+
+<--->
+
+Flexcolumn 2
+
+{{< /flexcolumns >}}
+
 ![itch:](picaroons)
